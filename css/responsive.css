@@ -1,0 +1,160 @@
+/* (min-width: 1200px) start */
+@media (min-width: 1200px) {}
+
+/* (min-width: 1200px) end */
+
+/* (min-width: 992px) and (max-width: 1199px) start */
+@media (min-width: 992px) and (max-width: 1199px) {
+
+	.right_bottom {
+		padding: 0 2em 1.4em;
+	}
+
+}
+
+/* (min-width: 992px) and (max-width: 1199px) end */
+
+/* (min-width: 768px) and (max-width: 991px) start */
+@media (min-width: 768px) and (max-width: 991px) {
+
+	.top_inner hr {
+		margin-right: 5em;
+	}
+
+	.bottom {
+		margin-top: 2em;
+	}
+
+	.list {
+		margin-left: -1em;
+	}
+
+}
+
+/* (min-width: 768px) and (max-width: 991px) end */
+
+/* (min-width: 576px) and (max-width: 767px) start */
+@media (min-width: 576px) and (max-width: 767px) {
+
+	.container {
+		display: block;
+		padding: 2em;
+	}
+	
+	.top_inner h1 {
+		padding-top: 0.5em;
+	}
+
+	.head {
+		margin-bottom: -0.5em;
+	}
+
+	.sub-head {
+		margin-top: 1em;
+	}
+
+	.position {
+		margin: 1em 3em 0 0;
+	}
+
+	.top_inner {
+		text-align: center;
+		margin-top: -2.8em;
+		padding-bottom: 1em;
+	}
+
+	.top_inner hr {
+		margin: 0 3em;
+	}
+
+	.bottom {
+		margin-top: 2em;
+	}
+
+	.profile {
+		padding-top: 0.8em;
+	}
+	
+	.left_bottom {
+		padding-left: 1em;
+		padding-bottom: 0.1em;
+		border-right: none;
+		margin-bottom: -1.3em;
+	}
+
+	.right_bottom {
+		padding: 0 2em 1.6em 1em;
+	}
+
+	.list {
+		margin-left: -1em;
+	}
+
+}
+
+/* (min-width: 576px) and (max-width: 767px) end */
+
+/* (max-width: 575px) start */
+@media (max-width: 575px) {
+
+	.bdb {
+		border-bottom: 3px solid #ED4264;
+	}
+
+	.container {
+		display: block;
+		padding: 1.3em;
+	}
+	
+	.top_inner h1 {
+		padding-top: 0.5em;
+	}
+
+	.head {
+		margin-bottom: -0.5em;
+	}
+
+	.sub-head {
+		margin-top: 1em;
+	}
+
+	.position {
+		margin: 1em 0 -0.3em;
+	}
+
+	.top_inner {
+		text-align: center;
+		margin-top: -2.8em;
+		padding-bottom: 1em;
+	}
+
+	.top_inner hr {
+		margin: 0 0.7em;
+	}
+
+	.bottom {
+		margin-top: 1.5em;
+	}
+	
+	.profile {
+		padding-top: 0.8em;
+	}
+
+	.left_bottom {
+		padding: 0 1em 1em;
+		border-right: none;
+		margin-bottom: -1.9em;
+		margin-top: -1em;
+	}
+
+	.right_bottom {
+		padding: 0 1em 1.5em;
+	}
+
+	.list {
+		margin-left: -1em;
+	}
+
+}
+
+/* (max-width: 575px) end */

@@ -1,0 +1,98 @@
+@import "variables";
+
+.bg {
+  background: $white;
+}
+a {
+	text-decoration: none;
+}
+.head {
+  color: $primaryColor;
+  text-transform: uppercase;
+}
+.sub-head {
+  color: $secondaryColor;
+  text-transform: uppercase;
+  line-height: 0.3em;
+}
+.paragraph {
+	line-height: 0.6em;
+}
+.list {
+	line-height: 1.5em;
+}
+.position {
+	margin: -0.8em 6em 0 0;
+}
+.bdb {
+	border-bottom: 5px solid $border;
+}
+.top_img {
+	display: grid;
+	justify-content: center;
+	align-content: center;
+	padding: 1em 0;
+& img {
+	border-radius: 50%;
+	border: 2px solid #ED4264;
+}
+}
+.top_inner > hr {
+	margin-right: 15em;
+}
+.email {
+	color: $primaryColor;
+	font-weight: $bold;
+	background: $email_bg;
+	padding: 0.5em 1em;
+	line-height: 2em;
+}
+.hire {
+	color: $black;
+	font-weight: $bold;
+	background: $hire_bg;
+	padding: 0.5em 1em;
+	margin-left: 1em;
+&:hover {
+	color: $white;
+	background: $border;
+	transition: all linear .3s;
+}
+}
+.bottom {
+	margin-top: 3em;
+}
+.left_bottom {
+	padding: 0 2em;
+}
+.bdr {
+	border-right: 2px dashed $border;
+}
+.right_bottom {
+	padding: 0 2em;
+}
+.space {
+	padding-top: 1.2em;
+}
+.skill {
+	text-align: center;
+	padding: 5px 0;
+	border-radius: 1em;
+	color: $black;
+}
+.skill_html {
+	width: $html_wd;
+	background-color: $html_bg;
+}
+.skill_css {
+	width: $css_wd;
+	background-color: $css_bg;
+}
+.skill_js {
+	width: $js_wd;
+	background-color: $js_bg;
+}
+.skill_php {
+	width: $php_wd;
+	background-color: $php_bg;
+}
