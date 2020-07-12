@@ -42,3 +42,7 @@ If you want to contact me you can reach me at rudritarahman@gmail.com .
 ## License
 This project uses the following license:
 [license_name](license_URL)
+
+## Project status
+- [x] This is a complete project.
+- [ ] This is an incomplete project.
