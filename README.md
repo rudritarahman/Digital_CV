@@ -23,7 +23,7 @@ To install <digital_CV>, follow these steps:
 To use <digital_CV>, follow these steps:
 * `<usage_example>`
 
-## Contrubuting to <digital_CV>
+## Contrubution
 To contribute to <digital_CV>, follow these steps:
 1. Fork this respository.
 2. Create a branch: `git checkout -b <branch_name> .`
