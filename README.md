@@ -44,5 +44,5 @@ This project uses the following license:
 [license_name](license_URL)
 
 ## Project status
-- [x] This is a complete project.
-- [ ] This is an incomplete project.
+- [] This is a complete project.
+- [x] This is an incomplete project.
